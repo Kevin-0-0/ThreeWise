@@ -1,4 +1,4 @@
-# Kit-Kat-Toe
+# ThreeWise
 A simple variation of popular Tic-Tac-Toe game.
 
 ## Game Rules & Instructions
